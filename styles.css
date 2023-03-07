@@ -1,13 +1,13 @@
 body {
-  background-color: dark-gray;
+  background-color: darkgray;
 }
 h1 {
-  color: light-green;
+  color: lightgreen;
   font-family: 'Titan One', cursive;
   @import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
 }
 p {
-  color: light-green;
+  color: lightgreen;
   font-family: 'Nunito', sans-serif;
   @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
 }
