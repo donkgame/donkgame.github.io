@@ -3,9 +3,9 @@ body {
 }
 h1 {
   color: green;
-  font-family: titan-one;
+  font-family: 'Titan One', cursive;
 }
 p {
   color: green;
-  font-family: nunito;
+  font-family: 'Nunito', sans-serif;
 }
